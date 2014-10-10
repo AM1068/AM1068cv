@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Siamos Aris-Stylianos - Software Engineer</title>
+
+<meta name="viewport" content="width=device-width"/>
+<meta name="description" content="The Curriculum Vitae of Siamos Aris."/>
+<meta charset="UTF-8"> 
+
+<link type="text/css" rel="stylesheet" href="style.css">
+<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700|Lato:400,300' rel='stylesheet' type='text/css'>
+
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+</head>
+<body id="top">
+<div id="cv" class="instaFade">
+	<div class="mainDetails">
+		<div id="headshot" class="quickFade">
+			<img src="headshot.jpg" alt="Siamos Aris" />
+		</div>
+		
+		<div id="name">
+			<h1 class="quickFade delayTwo">Siamos Aris-Stylianos</h1>
+			<h2 class="quickFade delayThree">Siamos-CV</h2>
+		</div>
+		
+		<div id="contactDetails" class="quickFade delayFour">
+			<ul>
+				<li>e-mail: <a href="mailto:siamos@uth.gr" target="_blank">siamos@uth.gr</a></li>
+				<li>site: <a href="http://www.AM1068.wordpress.com">www.AM1068.wordpress.com</a></li>
+				<li>phone:- </li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+	
+	<div id="mainArea" class="quickFade delayFive">
+		<section>
+			<article>
+				<div class="sectionTitle">
+					<h1>Personal Profile</h1>
+				</div>
+				
+				<div class="sectionContent">
+					<p>I am a student of software engineering.I like playing video games , football also studing, doing athletics and ofcourse travelling .I m a trustful,responsible and cooperative person ,i like working with others.</p>
+				</div>
+			</article>
+			<div class="clear"></div>
+		</section>
+		
+		
+		<section>
+			<div class="sectionTitle">
+				<h1>Work Experience</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<article>
+					<h2>Barman at Isla beach bar Platamonas</h2>
+					<p class="subDetails">Period:2006-7-8 .I have worked as barman for three summers and also as a waiter, with a lot of responsibilities .  </p>
+					<p>         </p>
+				</article>
+
+								                         					<article>
+					<h2>DataBase Manager at BIOXHMIKH A.E</h2>
+					<p class="subDetails">Period:2014 Database manager for two months for my school practice. </p>
+					<p>         </p>
+				</article>
+
+	
+				
+			</div>
+			<div class="clear"></div>
+		</section>
+		
+		
+		<section>
+			<div class="sectionTitle">
+				<h1>Key Skills</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<ul class="keySkills">
+					<li>Java</li>
+					<li>C</li>
+					<li>Python</li>
+					<li>A little C++</li>
+					<li>Html</li>
+					<li>CSS</li>
+				</ul>
+			</div>
+			<div class="clear"></div>
+		</section>
+		
+		
+		<section>
+			<div class="sectionTitle">
+				<h1>Education</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<article>
+					<h2>College/University</h2>
+
+					<p>University of Thessaly - Software engineer.</p>
+				</article>
+				
+			</div>
+			<div class="clear"></div>
+		</section>
+		
+	</div>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3753241-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</body>
+</html>
